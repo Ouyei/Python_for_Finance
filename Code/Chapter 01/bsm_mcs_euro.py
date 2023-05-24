@@ -6,7 +6,7 @@
 # (c) Dr. Yves J. Hilpisch
 #
 import math
-import numpy as np
+import numpy as np #there is a problem with numpy in VSC should select a specific environment ->Select Interpreter command from the Select python bundled by Anaconda 
 
 # Parameter Values
 S0 = 100.  # initial index level
